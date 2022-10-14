@@ -3,10 +3,10 @@
 #include <time.h>
 
 /**
- * main - finds the last int in a random number
- *
- * Description: The numbers are generated automatically
- * Return: Always(0) Success
+ * main - Prints a random number and states whether
+ * it is positive, negative, or zero.
+ * 
+ * Return: Always 0.
  */
 int main(void)
 {
