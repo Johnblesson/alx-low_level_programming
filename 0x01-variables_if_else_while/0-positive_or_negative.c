@@ -8,7 +8,6 @@
  * Description: The numbers are generated automatically
  * Return: Always(0) Success
  */
-
 int main(void)
 {
          int n;
